@@ -17,12 +17,12 @@ body {
 }
 
 h1 {
-	color: #111111;
+	color: #00ffc3;
 	font-size: 50px;
 }
 
 .highlight {
-	color: #00ffc3;
+	color: #c772fc;
 	display: inline-block;
 	transition: transform 0.5s ease;
 }
@@ -31,7 +31,7 @@ h1 {
 }
 
 h2 {
-	color: #111111;
+	color: #00ffc3;
 	font-size: 26px;
 	font-weight: 400;
 }
@@ -42,7 +42,7 @@ h2 {
 }
 
 h3 {
-	color: #111111;
+	color: #00ffc3;
 }
 
 ul {
