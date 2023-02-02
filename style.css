@@ -1,0 +1,76 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtsJ2KFd7VIeBm14wR4kyL5yNB_l-6AtMZ3lRGcYxdMBPWUKJfeMgkLfxhwokz6BvDJQ&usqp=CAU.jpg");
+	background-size: 250px 250px;
+	color: white;
+	padding: 100px;
+}
+
+.intro {
+	margin: 0;
+	text-align: center;
+}
+
+h1 {
+	color: #111111;
+	font-size: 50px;
+}
+
+.highlight {
+	color: #00ffc3;
+	display: inline-block;
+	transition: transform 0.5s ease;
+}
+.highlight:hover {
+	transform: translateY(-20px);
+}
+
+h2 {
+	color: #111111;
+	font-size: 26px;
+	font-weight: 400;
+}
+
+.projects {
+	width: 90%;
+	margin: 50px;
+}
+
+h3 {
+	color: #111111;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+li {
+	width: 100%;
+	margin-bottom: 50px;
+}
+
+iframe {
+	width: 100%;
+	height: 600px;
+	border: none;
+}
+
+
+footer {
+	width: 100%;
+	background: black;
+	text-align: center;
+	font-size: 24px;
+
+}
+
+.evidence {
+	padding-top: 100px;
+
+}
